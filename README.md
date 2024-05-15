@@ -8,3 +8,11 @@
   Para poder documentar el laboratorio genere otra feature con respectivo pull request para agregar el README.md
   ![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/90f93773-f47d-4a96-b197-45831b430791)
  
+- GitFlow
+  Moviendonos a uso de gitFlow, generamos la ramas dev y qa
+  
+![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/19bdda8e-7ced-4b03-8fda-77b80477b86f)
+
+Voy a crear dos features que salgan de dev, una para generar un controlador que devuelva un Hello World y otro para Saludar (feature/hello y feature/greeting)
+
+![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/dfb4fee9-5082-4b08-be1e-4f453251a62a)
