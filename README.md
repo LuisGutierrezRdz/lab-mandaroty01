@@ -31,5 +31,8 @@ Una vez pasado el cambio a qa, simulamos que esa feature se probará y esperamos
 Se va generar un PR para pasar los cambios de feature/greeting a qa
 ![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/d047abfe-829d-4ee4-a5e6-a370bbac34ee)
 
+4. Automating with GitHub Actions
+
+![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/9ce41526-53aa-4135-8fab-56a7db5886c5)
 
 
