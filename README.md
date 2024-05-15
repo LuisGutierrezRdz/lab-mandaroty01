@@ -29,4 +29,7 @@ Una vez pasado el cambio a qa, simulamos que esa feature se probará y esperamos
 3. Pull Request and Code Review Simulation
 
 Se va generar un PR para pasar los cambios de feature/greeting a qa
+![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/d047abfe-829d-4ee4-a5e6-a370bbac34ee)
+
+
 
