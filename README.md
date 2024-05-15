@@ -8,3 +8,6 @@
   Para poder documentar el laboratorio genere otra feature con respectivo pull request para agregar el README.md
   ![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/90f93773-f47d-4a96-b197-45831b430791)
  
+- GitFlow
+  Moviendonos a uso de gitFlow, generamos la ramas dev y qa
+![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/19bdda8e-7ced-4b03-8fda-77b80477b86f)
