@@ -16,3 +16,16 @@
 Voy a crear dos features que salgan de dev, una para generar un controlador que devuelva un Hello World y otro para Saludar (feature/hello y feature/greeting)
 
 ![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/dfb4fee9-5082-4b08-be1e-4f453251a62a)
+
+Una vez pasado el cambio a qa, simulamos que esa feature se probará y esperamos el VoBo para pase a PROD (main)
+
+2. Conflict Resolution and Merging
+
+- Tenemos la feature/greeting que salio al mismo tiempo de dev, como la feature/hello ya fue mezclada va tener conflictos, solucionamos y generamos el PR para mezclar en dev
+
+![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/7120a6a6-2571-4fb5-8138-f1452026ed7f)
+![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/a0b9481e-2e27-4155-a0e8-dea71b47b45b)
+
+3. Pull Request and Code Review Simulation
+
+Se va generar un PR para pasar los cambios de feature/greeting a qa
