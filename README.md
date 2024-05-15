@@ -11,3 +11,7 @@
 - GitFlow
   Moviendonos a uso de gitFlow, generamos la ramas dev y qa
 ![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/19bdda8e-7ced-4b03-8fda-77b80477b86f)
+
+Procedemos a crear PR para integrar feature/hello a dev
+![image](https://github.com/LuisGutierrezRdz/lab-mandaroty01/assets/115661340/9aae037a-3f76-4383-85e7-3c49a2444aa7)
+
